@@ -1,118 +1,118 @@
 body {
-    text-align: center;
-    margin: auto;
-    padding: auto;
-    justify-content: center;
+  text-align: center;
+  margin: auto;
+  padding: auto;
+  justify-content: center;
 }
 
 h1 {
-    font-style: italic;
-    background-color: aquamarine;
-    width: 25%;
-    display: flex;
-    justify-content: center;
-    align-content: center;
-    padding: 0;
-    margin: 10px;
-    position: relative;
-    left: 570px;
+  font-style: italic;
+  background-color: aquamarine;
+  width: 25%;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  padding: 0;
+  margin: 10px;
+  position: relative;
+  left: 570px;
 }
 
 h2 {
-    display: flex;
-    justify-content: center;
-    align-content: center;
-    font-size: 15px;
-    font-style: italic;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  font-size: 15px;
+  font-style: italic;
 }
 
 #profile {
-    border: solid 5px gray;
-    border-radius: 100px;
-    height: 225px;
-    width: 225px;
-    filter: drop-shadow(0 0 5px gray);
-    transition: 0.2s;
-    margin: 0;
-    padding: 0;
-    justify-content: center;
-    align-self: center;
+  border: solid 5px gray;
+  border-radius: 100px;
+  height: 225px;
+  width: 225px;
+  filter: drop-shadow(0 0 5px gray);
+  transition: 0.2s;
+  margin: 0;
+  padding: 0;
+  justify-content: center;
+  align-self: center;
 }
 
 #profile:hover {
-    transform: scale(1.10);
+  transform: scale(1.1);
 }
 
 #post1 {
-    height: 400px;
-    width: 400px;
-    margin: 35px 0 35px 0;
+  height: 400px;
+  width: 400px;
+  margin: 35px 0 35px 0;
 }
 
 .userName1 {
-    justify-content: center;
-    align-items: center;
-    position: relative;
-    right: 160px;
-    bottom: 45px;
-    font-family: sans-serif;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  right: 160px;
+  bottom: 45px;
+  font-family: sans-serif;
 }
 
 .Desc1 {
-    justify-content: center;
-    align-items: center;
-    position: relative;
-    right: 90px;
-    bottom: 60px;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  right: 90px;
+  bottom: 60px;
 }
 
 #post2 {
-    height: 400px;
-    width: 400px;
-    margin: 35px 0 35px 0;
-    position: relative;
-    bottom: 90px;
-    justify-content: center;
+  height: 400px;
+  width: 400px;
+  margin: 35px 0 35px 0;
+  position: relative;
+  bottom: 90px;
+  justify-content: center;
 }
 
 .userName2 {
-    justify-content: center;
-    align-items: center;
-    position: relative;
-    right: 160px;
-    bottom: 135px;
-    font-family: sans-serif;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  right: 160px;
+  bottom: 135px;
+  font-family: sans-serif;
 }
 
 .Desc2 {
-    justify-content: center;
-    align-items: center;
-    position: relative;
-    right: 90px;
-    bottom: 140px;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  right: 90px;
+  bottom: 140px;
 }
 
 #post3 {
-    height: 400px;
-    width: 400px;
-    margin: 35px 0 35px 0;
-    position: relative;
-    bottom: 150px;
+  height: 400px;
+  width: 400px;
+  margin: 35px 0 35px 0;
+  position: relative;
+  bottom: 150px;
 }
 
 .userName3 {
-    justify-content: center;
-    align-items: center;
-    position: relative;
-    right: 160px;
-    bottom: 195px;
-    font-family: sans-serif;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  right: 160px;
+  bottom: 195px;
+  font-family: sans-serif;
 }
 
 .Desc3 {
-    justify-content: center;
-    align-items: center;
-    position: relative;
-    right: 130px;
-    bottom: 200px;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  right: 130px;
+  bottom: 200px;
 }
